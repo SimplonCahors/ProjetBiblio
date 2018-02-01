@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LWS Affiliation Widget Configuration</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body {
+                color: #444;
+                font-family: "Open Sans",sans-serif;
+                font-size: 13px;
+                line-height: 1.4em;
+                min-width: 600px;
+            }
+            table {
+                width: 90%;
+            }
+            th {
+                vertical-align: top;
+                padding-top: 10px;
+            }
+            p.help {
+                display: block;
+                margin-top: 5px;
+                margin-bottom: 10px;
+                color: #737373;
+            }
+            input[type="text"], select {
+                height: 28px;
+                margin: 0 4px 0 0;
+                border: 1px solid #ddd;
+                -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+                box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+                background-color: #fff;
+                color: #32373c;
+                outline: 0;
+                -webkit-transition: .05s border-color ease-in-out;
+                transition: .05s border-color ease-in-out;
+                padding: 3px 5px;
+                width: 100%;
+                line-height: 28px;
+                font-size: 14px;
+                max-width: 438px;
+            }
+            select {
+                height: 36px;
+                max-width: 450px;
+            }
+            input[type="text"]:focus, select:focus {
+                border-color: #5b9dd9;
+                -webkit-box-shadow: 0 0 2px rgba(30,140,190,.8);
+                box-shadow: 0 0 2px rgba(30,140,190,.8);
+            }
+            .button {
+                height: 30px;
+                line-height: 28px;
+                padding: 0 12px 2px;
+                display: inline-block;
+                text-decoration: none;
+                font-size: 13px;
+                line-height: 26px;
+                height: 28px;
+                margin: 0;
+                padding: 0 10px 1px;
+                cursor: pointer;
+                border-width: 1px;
+                border-style: solid;
+                -webkit-appearance: none;
+                -webkit-border-radius: 3px;
+                border-radius: 3px;
+                white-space: nowrap;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                color: #555;
+                border-color: #ccc;
+                background: #f7f7f7;
+                -webkit-box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+                box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+                vertical-align: top;
+            }
+            .button-primary {
+                background: #00a0d2;
+                border-color: #0073aa;
+                -webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+                box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+                color: #fff;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <p style="width:99%;">
+            Saisissez ici les différents paramètres vous permettant de configurer votre Widget.<br/>
+            Pour plus de détails concernant la personnalisation du Widget, rendez-vous sur notre <a href="http://aide.lws.fr/base/Affiliation/Affiliation/Comment-installer-et-utiliser-le-plugin-Wordpress-Affiliation" title="Aide Plugin Wordpress Affiliation LWS" target="_blank">rubrique d'aide</a>.
+        </p>
+        <form>
+            <table>
+                <tr>
+                    <th><label>Extension</label></th>
+                    <td>
+                        <input type="text" class="newtag form-input-tip" placeholder="extension" value="com" id="extensionInput" />
+                        <p class="help">Correspond à l'extension qui sera affichée en premier parmi les suggestions.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <th><label>Thème du bouton</label></th>
+                    <td>
+                        <select id="themeSelect">
+                            <option value="default" selected="selected">default</option>
+                            <option value="primary">primary</option>
+                            <option value="info">info</option>
+                            <option value="success">success</option>
+                            <option value="warning">warning</option>
+                            <option value="danger">danger</option>
+                        </select>
+                        <p class="help">Correspond à la couleur du bouton qui appraîtra à droite du champ de recherche.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <th><label>Texte du bouton</label></th>
+                    <td>
+                        <input type="text" class="newtag form-input-tip" placeholder="extension" value="Commander" maxlength="15" id="txtButtonInput" />
+                        <p class="help">Correspond au texte qui s'affichera à l'intérieur du bouton.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <th><label>Cible</label></th>
+                    <td>
+                        <select id="targetSelect">
+                            <option value="blank" selected="selected">blank</option>
+                            <option value="parent">parent</option>
+                        </select>
+                        <p class="help">Spécifie si la redirection vers le site de vente se fait dans la page courante (parent) ou dans un nouvel onglet (blank).</p>
+                    </td>
+                </tr>
+            </table>
+            <center>
+                <a class="preview button" href="#" id="cancelWidgetConfig" onclick="javascript:top.tinymce.activeEditor.windowManager.close();">Annuler</a>
+            <button class="button button-primary" id="validateWidgetConfig" onclick="javascript:submitConfigWidgetForm();">Valider</button>
+            </center>
+        </form>
+    </body>
+    <script>
+        // Au chargement on définit les variables par défaut
+        //var args = top.tinymce.activeEditor.windowManager.getParams();
+        
+        // À la validation du formulaire
+        function submitConfigWidgetForm() {
+            var argz = {
+                extension: document.getElementById('extensionInput').value,
+                theme: document.getElementById("themeSelect").options[document.getElementById("themeSelect").selectedIndex].value,
+                txtButton: document.getElementById('txtButtonInput').value,
+                cible: document.getElementById("targetSelect").options[document.getElementById("targetSelect").selectedIndex].value,
+            };
+            top.tinymce.activeEditor.windowManager.setParams(argz);
+            top.tinymce.activeEditor.windowManager.close();
+        }
+    </script>
+</html>

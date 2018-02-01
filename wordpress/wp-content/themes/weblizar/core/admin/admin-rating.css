@@ -1,0 +1,37 @@
+.notice-box {
+    background: #4fb9f0 !important;
+    color: #fff;
+}
+.notice-box p {
+    font-weight: bold;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.notice.error {
+    border-left-color: #4fb9f0;
+}
+.error a {
+    text-decoration: none;
+}
+.notice-box {
+    box-shadow: 2px 4px 4px #888888 !important;
+}
+a.dismiss {
+    float: right;
+    color: #fff;
+    text-decoration: underline;
+}
+.notice-box.notice-success {
+    border-left: 4px solid #acea75;
+}
+.notice-box p, .notice-box1 p {
+    padding: 10px;
+}
+.notice-box.notice-success a {
+    color: #acea75;
+}
+a.rateme {
+    padding: 2px;
+    color: #acea75;
+    font-size: 16px;
+}

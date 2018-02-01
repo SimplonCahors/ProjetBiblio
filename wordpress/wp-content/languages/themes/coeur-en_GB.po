@@ -1,0 +1,924 @@
+# Translation of Themes - Coeur in English (UK)
+# This file is distributed under the same license as the Themes - Coeur package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 15:16:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Coeur\n"
+
+#. Description of the plugin/theme
+msgid "Coeur provides you with everything you would expect from a premium theme, for free. It is among the most complete free WordPress themes and it offers a vast variety of options. Through powerful options implemented right into WordPress’ very own interface, Coeur empowers you to push the limits of customization far beyond expectations. Coeur is simply beautiful, reliable, highly customizable and 100% responsive. Coeur also fully integrates with your online shop by supporting the leading eCommerce plugin for WordPress – WooCommerce. Coeur is as easy to use and customize as it is to install."
+msgstr "Coeur provides you with everything you would expect from a premium theme, for free. It is among the most complete free WordPress themes and it offers a vast variety of options. Through powerful options implemented right into WordPress’ very own interface, Coeur empowers you to push the limits of customisation far beyond expectations. Coeur is simply beautiful, reliable, highly customisable, and 100% responsive. Coeur also fully integrates with your online shop by supporting the leading eCommerce plugin for WordPress – WooCommerce. Coeur is as easy to use and customise as it is to install."
+
+#. Theme Name of the plugin/theme
+msgid "Coeur"
+msgstr "Coeur"
+
+#: framework/functions/woocommerce.php:98
+msgid "Don't have an account?"
+msgstr "Don't have an account?"
+
+#: framework/functions/woocommerce.php:99
+msgid "Create one now"
+msgstr "Create one now"
+
+#: framework/customizer/customizer-reset.php:32
+msgid "Be brave, all custom settings will be reset. This action is irreversible."
+msgstr "Be brave, all custom settings will be reset. This action is irreversible."
+
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "Shipping costs will be calculated once you have provided your address."
+
+#: framework/customizer/options/options.sections.php:60
+msgid "Fonts"
+msgstr "Fonts"
+
+#: framework/customizer/options/options.sections.php:53
+msgid "Posts"
+msgstr "Posts"
+
+#: framework/customizer/options/options.sections.php:46
+msgid "Material"
+msgstr "Material"
+
+#: framework/customizer/options/options.layout.php:136
+msgid "Inner Background Color"
+msgstr "Inner Background Colour"
+
+#: framework/customizer/options/options.layout.php:87
+msgid "Style"
+msgstr "Style"
+
+#: framework/customizer/options/material/options.material.php:34
+msgid "Accent Color"
+msgstr "Accent Colour"
+
+#: framework/customizer/customizer.php:59
+msgid "Background"
+msgstr "Background"
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Only logged in customers who have purchased this product may leave a review."
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Your Review"
+msgstr "Your Review"
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr "Very Poor"
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr "Not that bad"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr "Average"
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr "Good"
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr "Perfect"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Your Rating"
+msgstr "Your Rating"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a review."
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr "Submit"
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Email"
+msgstr "E-mail"
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: woocommerce/single-product-reviews.php:42
+msgid "There are no reviews yet."
+msgstr "There are no reviews yet."
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr "Related Products"
+
+#: woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr " ago"
+
+#: woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr "and was completed"
+
+#: woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr "ago"
+
+#: woocommerce/order/tracking.php:14
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+
+#: woocommerce/order/order-details-customer.php:50
+#: woocommerce/order/order-details-customer.php:59
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details-customer.php:38
+msgid "Telephone:"
+msgstr "Telephone:"
+
+#: woocommerce/order/order-details-customer.php:31
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/order/order-details-customer.php:24
+msgid "Note:"
+msgstr "Note:"
+
+#: woocommerce/order/order-details-customer.php:19
+msgid "Contact Informations"
+msgstr "Contact Information"
+
+#: woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr "Customer Details"
+
+#: woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr "Order Again"
+
+#: woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr "Track"
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr "Email you used during checkout."
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr "Billing Email"
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr "Found in your order confirmation email."
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr "Order ID"
+
+#: woocommerce/order/form-tracking.php:20
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+
+#: woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr "Order Updates"
+
+#: woocommerce/myaccount/form-lost-password.php:42
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+
+#: framework/functions/woocommerce.php:80
+msgid "Sign into your account"
+msgstr "Sign into your account"
+
+#: framework/functions/woocommerce.php:79
+msgid "Already a member?"
+msgstr "Already a member?"
+
+#: woocommerce/order/order-details-customer.php:56
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: woocommerce/order/order-details-customer.php:47
+msgid "Billing Address"
+msgstr "Invoice: Address"
+
+#: woocommerce/global/form-login.php:49
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: woocommerce/global/form-login.php:45
+msgid "Remember me"
+msgstr "Remember Me"
+
+#: woocommerce/global/form-login.php:42
+msgid "Login"
+msgstr "Login"
+
+#: woocommerce/global/form-login.php:32
+msgid "Password"
+msgstr "Password"
+
+#: woocommerce/global/form-login.php:29
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr "Username or email"
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr "Payment Method:"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Total:"
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Date:"
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr "Order Number:"
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:71
+msgid "Thank you. Your order has been received."
+msgstr "Thank you. Your order has been received."
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr "Pay"
+
+#: woocommerce/checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "Please attempt your purchase again."
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Please attempt your purchase again or go to your account page."
+
+#: woocommerce/checkout/thankyou.php:20
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+
+#: woocommerce/checkout/review-order.php:19
+msgid "Your order"
+msgstr "Your order"
+
+#: woocommerce/checkout/payment.php:42
+msgid "Update totals"
+msgstr "Update totals"
+
+#: woocommerce/checkout/payment.php:41
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+
+#: woocommerce/checkout/payment.php:34
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Please fill in your details above to see available payment methods."
+
+#: woocommerce/checkout/form-shipping.php:58
+msgid "Additional Information"
+msgstr "Additional Information"
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr "Ship to a different address?"
+
+#: woocommerce/checkout/form-pay.php:75
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+
+#: woocommerce/checkout/form-pay.php:33
+msgid "Totals"
+msgstr "Totals"
+
+#: woocommerce/checkout/form-pay.php:32
+msgid "Qty"
+msgstr "Qty"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "Click here to login"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "Returning customer?"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "Click here to enter your code"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "Have a coupon?"
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "You must be logged in to checkout."
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr "Create an account?"
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr "Billing Details"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "Billing &amp; Shipping"
+
+#: woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr "Return To Basket"
+
+#: woocommerce/checkout/cart-errors.php:18
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr "There are some issues with the items in your basket (shown above). Please go back to the basket page and resolve these issues before checking out."
+
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr "Update Totals"
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr "Postcode / Zip"
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr "City"
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr "Select a state&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr "State / county"
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr "Select a country&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr "Calculate Shipping"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:16
+msgid "Proceed to Checkout"
+msgstr "Proceed to Checkout"
+
+#: woocommerce/cart/mini-cart.php:84
+msgid "View Cart"
+msgstr "View Basket"
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr "No products in the basket."
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr "You may be interested in&hellip;"
+
+#: woocommerce/cart/cart.php:140
+msgid "Update Cart"
+msgstr "Update Basket"
+
+#: woocommerce/cart/cart.php:134 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr "Apply Coupon"
+
+#: woocommerce/cart/cart.php:133 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr "Coupon code"
+
+#: woocommerce/cart/cart.php:85
+msgid "Available on backorder"
+msgstr "Available on backorder"
+
+#: woocommerce/cart/cart.php:53 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr "Remove this item"
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr "Quantity"
+
+#: woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr "Price"
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/form-pay.php:31
+#: woocommerce/checkout/review-order.php:24
+msgid "Product"
+msgstr "Product"
+
+#: woocommerce/cart/cart.php:29
+msgid "Preview"
+msgstr "Preview"
+
+#: woocommerce/cart/cart-totals.php:96
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+
+#: woocommerce/cart/cart-totals.php:93
+msgid " (taxes estimated for %s)"
+msgstr " (taxes estimated for %s)"
+
+#: woocommerce/cart/cart-totals.php:81 woocommerce/cart/cart.php:33
+#: woocommerce/checkout/review-order.php:25
+#: woocommerce/checkout/review-order.php:104
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart-totals.php:27 woocommerce/cart/mini-cart.php:79
+#: woocommerce/checkout/review-order.php:57
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "Basket Totals"
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr "There are no shipping methods available. Please check your address or contact us if you need any help."
+
+#: woocommerce/cart/cart-totals.php:49
+msgid "Shipping"
+msgstr "Shipping"
+
+#: woocommerce/cart/cart-empty.php:25
+msgid "Return To Shop"
+msgstr "Return To Shop"
+
+#: woocommerce/cart/cart-empty.php:21
+msgid "Your cart is currently empty."
+msgstr "Your basket is currently empty."
+
+#: framework/functions/woocommerce.php:261 woocommerce/cart/mini-cart.php:85
+msgid "Checkout"
+msgstr "Checkout"
+
+#: framework/functions/woocommerce.php:249
+msgid "Logout"
+msgstr "Logout"
+
+#: framework/functions/woocommerce.php:243
+#: framework/functions/woocommerce.php:248
+#: framework/functions/woocommerce.php:255 woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr "My Account"
+
+#: framework/functions/woocommerce.php:216
+msgid "Phone *"
+msgstr "Phone *"
+
+#: framework/functions/woocommerce.php:215
+#: framework/functions/woocommerce.php:226
+msgid "Email Address *"
+msgstr "Email Address *"
+
+#: framework/functions/woocommerce.php:214
+#: framework/functions/woocommerce.php:225
+msgid "Country *"
+msgstr "Country *"
+
+#: framework/functions/woocommerce.php:213
+msgid "State *"
+msgstr "State *"
+
+#: framework/functions/woocommerce.php:212
+#: framework/functions/woocommerce.php:224
+msgid "Postcode / Zip *"
+msgstr "Postcode *"
+
+#: framework/functions/woocommerce.php:211
+#: framework/functions/woocommerce.php:223
+msgid "Town / City *"
+msgstr "Town / City *"
+
+#: framework/functions/woocommerce.php:210
+#: framework/functions/woocommerce.php:222
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+#: framework/functions/woocommerce.php:209
+#: framework/functions/woocommerce.php:221
+msgid "Address *"
+msgstr "Address *"
+
+#: framework/functions/woocommerce.php:208
+#: framework/functions/woocommerce.php:220
+msgid "Company Name"
+msgstr "Company Name"
+
+#: framework/functions/woocommerce.php:207
+#: framework/functions/woocommerce.php:219
+msgid "Last Name *"
+msgstr "Last Name *"
+
+#: framework/functions/woocommerce.php:206
+#: framework/functions/woocommerce.php:218
+msgid "First Name *"
+msgstr "First Name *"
+
+#: framework/functions/woocommerce.php:194
+msgid "Passwords do not match."
+msgstr "Passwords do not match."
+
+#: framework/customizer/customizer-reset.php:31
+msgid "Reset"
+msgstr "Reset"
+
+#: framework/customizer/options/options.sections.php:127
+msgid "Navigation"
+msgstr "Navigation"
+
+#: framework/customizer/customizer.php:56
+#: framework/customizer/options/flat/options.flat.php:56
+#: framework/customizer/options/material/options.material.php:116
+msgid "Navbar Link Color"
+msgstr "Navbar Link Colour"
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full Width"
+
+#: header.php:106
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: framework/functions/template-tags.php:265
+msgid "Read More"
+msgstr "Read More"
+
+#: framework/functions/template-tags.php:239
+msgid "View all posts in %s"
+msgstr "View all posts in %s"
+
+#: framework/functions/template-tags.php:207
+msgid "by"
+msgstr "by"
+
+#: framework/functions/template-tags.php:128
+msgid "Author's profile"
+msgstr "Author's profile"
+
+#: framework/functions/template-tags.php:117
+msgid "Next Post"
+msgstr "Next Post"
+
+#: framework/functions/template-tags.php:110
+msgid "Previous Post"
+msgstr "Previous Post"
+
+#: framework/functions/template-tags.php:104
+msgid "Show Comments"
+msgstr "Show comments"
+
+#: framework/functions/template-tags.php:66
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: framework/functions/template-tags.php:65
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: framework/functions/sidebars.php:36
+msgid "Footer Widgets 3 (right)"
+msgstr "Footer Widgets 3 (right)"
+
+#: framework/functions/sidebars.php:27
+msgid "Footer Widgets 2 (center)"
+msgstr "Footer Widgets 2 (centre)"
+
+#: framework/functions/sidebars.php:20 framework/functions/sidebars.php:29
+#: framework/functions/sidebars.php:38
+msgid "Widgets will appear in the footer area. To hide widgetized area in the footer simply remove all widgets from Footer 1, 2 and 3"
+msgstr "Widgets will appear in the footer area. To hide widgetised area in the footer, simply remove all widgets from Footer 1, 2 and 3"
+
+#: framework/functions/sidebars.php:18
+msgid "Footer Widgets 1 (left)"
+msgstr "Footer Widgets 1 (left)"
+
+#: framework/functions/sidebars.php:11
+msgid "Main sidebar that appears on the right."
+msgstr "Main sidebar that appears on the right."
+
+#: framework/functions/sidebars.php:9
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: framework/functions/setup.php:66
+msgid "Mobile menu"
+msgstr "Mobile menu"
+
+#: framework/functions/setup.php:63
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: framework/customizer/options/options.title.php:17
+msgid "Footer Copyright"
+msgstr "Footer Copyright"
+
+#: framework/customizer/options/options.template.php:16
+msgid "Choose a Template"
+msgstr "Choose a Template"
+
+#: framework/customizer/options/options.sections.php:99
+msgid "Comments"
+msgstr "Comments"
+
+#: framework/customizer/options/options.sections.php:91
+msgid "Page Layout"
+msgstr "Page Layout"
+
+#: framework/customizer/options/options.sections.php:83
+msgid "Post Layout"
+msgstr "Post layout"
+
+#: framework/customizer/options/options.sections.php:75
+msgid "Blog Layout"
+msgstr "Blog Layout"
+
+#: framework/customizer/options/options.sections.php:39
+msgid "Flat"
+msgstr "Flat"
+
+#: framework/customizer/options/options.sections.php:32
+msgid "Classic"
+msgstr "Classic"
+
+#: framework/customizer/options/options.sections.php:26
+msgid "The template will define the overall look of your site. Customization doesn't stop here, each template comes with a unique set of options."
+msgstr "The template will define the overall look of your site. Customisation doesn't stop here, as each template comes with a unique set of options."
+
+#: framework/customizer/options/options.sections.php:24
+msgid "Template"
+msgstr "Template"
+
+#: framework/customizer/options/options.post.php:158
+#: framework/functions/template-tags.php:220
+msgid "Posted on"
+msgstr "Posted on"
+
+#: framework/customizer/options/options.post.php:64
+msgid "Do you want thumbnails to be linked to their article?"
+msgstr "Do you want thumbnails to be linked to their article?"
+
+#: framework/customizer/options/options.post.php:61
+msgid "Thumbnail Link"
+msgstr "Thumbnail Link"
+
+#: framework/customizer/options/options.post.php:35
+msgid "Post Content"
+msgstr "Post content"
+
+#: framework/customizer/options/options.post.php:13
+msgid "Choose the excerpt length (in words). Default is 70"
+msgstr "Choose the excerpt length (in words). Default is 70"
+
+#: framework/customizer/options/options.post.php:12
+msgid "Excerpt lenght"
+msgstr "Excerpt length"
+
+#: framework/customizer/options/options.nav.php:43
+msgid "Menu on single post pages"
+msgstr "Menu on single post pages"
+
+#: framework/customizer/options/options.nav.php:23
+msgid "Search Icon"
+msgstr "Search Icon"
+
+#: framework/customizer/options/options.logo.php:13
+#: framework/customizer/options/options.sections.php:106
+msgid "Logo"
+msgstr "Logo"
+
+#: framework/customizer/options/options.layout.php:112
+msgid "Width"
+msgstr "Width"
+
+#: framework/customizer/options/options.layout.php:13
+#: framework/customizer/options/options.layout.php:37
+#: framework/customizer/options/options.layout.php:61
+#: framework/customizer/options/options.sections.php:12
+#: framework/customizer/options/options.sections.php:67
+msgid "Layout"
+msgstr "Layout"
+
+#: framework/customizer/options/options.font.php:87
+msgid "Heading Font"
+msgstr "Heading Font"
+
+#: framework/customizer/options/options.font.php:51
+msgid "Body Font"
+msgstr "Body Font"
+
+#: framework/customizer/options/options.font.php:23
+msgid "Headings"
+msgstr "Headings"
+
+#: framework/customizer/options/flat/options.flat.php:35
+msgid "Navbar Background Color"
+msgstr "Navbar Background Colour"
+
+#: framework/customizer/options/options.favicon.php:71
+msgid "Upload image to be used as bookmark icon on other Apple devices. <b>Size must be <u>76x76px</u> and format <u>.png</u></b>"
+msgstr "Upload image to be used as bookmark icon on other Apple devices. <b>Size must be <u>76x76px</u> and format <u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:68
+msgid "Bookmark Icon"
+msgstr "Bookmark Icon"
+
+#: framework/customizer/options/options.favicon.php:53
+msgid "Upload image to be used as bookmark on iPads with retina screen. <b>Size must be <u>152x152</u> and format <u>.png</u></b>"
+msgstr "Upload image to be used as bookmark on iPads with retina screen. <b>Size must be <u>152x152</u> and format <u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:50
+msgid "Retina iPad Bookmark"
+msgstr "Retina iPad Bookmark"
+
+#: framework/customizer/options/options.favicon.php:35
+msgid "Upload image to be used as bookmark on iPhones with retina screen. <b>Size must be <u>120x120</u> and format <u>.png</u></b>"
+msgstr "Upload image to be used as bookmark on iPhones with retina screen. <b>Size must be <u>120x120</u> and format <u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:32
+msgid "Retina iPhone Bookmark"
+msgstr "Retina iPhone Bookmark"
+
+#: framework/customizer/options/options.favicon.php:17
+msgid "Change your site's favicon, <b>Image must be <u>16x16px</u> or <u>32x32px</u>, format must be <u>.png</u></b>"
+msgstr "Change your site's favicon, <b>Image must be <u>16x16px</u> or <u>32x32px</u>, format must be <u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:14
+#: framework/customizer/options/options.sections.php:113
+msgid "Favicon"
+msgstr "Favicon"
+
+#: framework/customizer/options/options.comments.php:18
+msgid "Click to see comments"
+msgstr "Click to see comments"
+
+#: framework/customizer/options/classic/options.classic.php:95
+#: framework/customizer/options/flat/options.flat.php:136
+#: framework/customizer/options/material/options.material.php:56
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: framework/customizer/options/classic/options.classic.php:73
+#: framework/customizer/options/flat/options.flat.php:114
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: framework/customizer/options/classic/options.classic.php:54
+#: framework/customizer/options/flat/options.flat.php:95
+#: framework/customizer/options/material/options.material.php:95
+msgid "Headings Link Color"
+msgstr "Headings Link Colour"
+
+#: framework/customizer/options/classic/options.classic.php:34
+#: framework/customizer/options/flat/options.flat.php:75
+#: framework/customizer/options/material/options.material.php:75
+msgid "Tagline Color"
+msgstr "Tagline Colour"
+
+#: framework/customizer/options/classic/options.classic.php:15
+#: framework/customizer/options/flat/options.flat.php:15
+#: framework/customizer/options/material/options.material.php:15
+msgid "Header Background Color"
+msgstr "Header Background Colour"
+
+#: framework/customizer/customizer.php:55
+msgid "Display Tagline in Header"
+msgstr "Display Tagline in Header"
+
+#: framework/comments.php:87
+msgid "Website"
+msgstr "Website"
+
+#: framework/comments.php:83
+msgid "Email (will not be published)"
+msgstr "Email (will not be published)"
+
+#: framework/comments.php:79 woocommerce/single-product-reviews.php:61
+msgid "Name"
+msgstr "Name"
+
+#: framework/comments.php:70
+msgid "Comment"
+msgstr "Comment"
+
+#: framework/comments.php:68
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: framework/comments.php:59
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: framework/comments.php:43 framework/comments.php:52
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: framework/comments.php:35
+msgid "Newer comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: framework/comments.php:32
+msgid "&larr; Older comments"
+msgstr "&larr; Older Comments"
+
+#: framework/comments.php:18 framework/comments.php:21
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Comment"
+msgstr[1] "%1$s Comments"
+
+#: framework/comments.php:18 framework/comments.php:21
+msgid "View Comments"
+msgstr "View Comments"
+
+#: framework/comments/comment.php:9
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: framework/comments/comment.php:5
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: framework/comments/comment.php:4
+msgid "%1$s"
+msgstr "%1$s"
+
+#: footer.php:25 footer.php:32
+msgid "Back to top"
+msgstr "Back to top"
+
+#: author.php:25
+msgid "This author hasn't added his/her bio."
+msgstr "This author hasn't added their bio."
+
+#: 404.php:20 category.php:46 index.php:46
+msgid "Nothing's here."
+msgstr "Nothing's here."
+
+#: 404.php:19 category.php:45 index.php:45
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://frenchtastic.eu/about"
+msgstr "http://frenchtastic.eu/about"
+
+#. Author of the plugin/theme
+msgid "frenchtastic"
+msgstr "frenchtastic"
+
+#. Theme URI of the plugin/theme
+msgid "http://frenchtastic.eu/theme/coeur"
+msgstr "http://frenchtastic.eu/theme/coeur"

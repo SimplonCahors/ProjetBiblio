@@ -1,0 +1,137 @@
+/*Cutomizer CSS*/
+#accordion-section-weblizar_more h3.accordion-section-title {
+    background: #31A3DD;
+    color: #fff;
+}
+
+#accordion-section-weblizar_more h3.accordion-section-title{
+	color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+.btn-lg, .btn-group-lg > .btn {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+
+.upsell-enigma{
+float:none;
+margin-left: 20px;
+}
+.btn-success {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.upsell-btn a:hover {color:#fff;}
+
+#customize-controls [id*="weblizar_theme_option"] > h3:before {
+    content: '\f0ad';
+    font-family: fontawesome;
+    padding-right: 5px;
+}
+.stitched {
+   padding: 20px;
+   margin: 10px;
+   background: #558a9a;
+   color: #fff;
+   font-size: 17px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #558a9a, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+}
+.customize-partial-edit-shortcut-weblizar_options-footer_section_social_media_enbled button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: 361px;
+}
+.customize-partial-edit-shortcut-weblizar_options-social_media_linkedin_link button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: 402px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_1_title button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    top: 65px;
+    left: -50px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_2_title button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    top: 65px;
+    left: -60px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_3_title button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    top: 65px;
+    left: -86px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_4_title button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    top: 65px;
+    left: -88px;
+}
+
+.customize-partial-edit-shortcut-weblizar_options-service_1_icons button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -74px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_2_icons button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -88px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_3_icons button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -91px;
+}
+.customize-partial-edit-shortcut-weblizar_options-service_4_icons button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -85px;
+}
+.customize-partial-edit-shortcut-service_1_text button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -156px;
+}
+.customize-partial-edit-shortcut-service_2_text button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -156px;
+}
+.customize-partial-edit-shortcut-service_3_text button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -156px;
+}
+.customize-partial-edit-shortcut-service_4_text button.customize-partial-edit-shortcut-button {
+    position: absolute;
+    left: -156px;
+}
+.versionhd {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+}
+.versionhd span {
+    color: #3f7125;
+    font-size: 12px;
+}

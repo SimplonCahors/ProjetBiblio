@@ -1,0 +1,481 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: selfie\n"
+"POT-Creation-Date: 2016-09-30 22:28+0600\n"
+"PO-Revision-Date: 2015-09-18 17:26+0600\n"
+"Last-Translator: support@d5creation.com\n"
+"Language-Team: D5 Creation <support@d5creation.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:22 ../front-page-blog.php:14 ../index.php:13 ../single.php:17
+msgid "Posted by:"
+msgstr ""
+
+#: ../archive.php:22 ../front-page-blog.php:14 ../index.php:13 ../single.php:17
+msgid " on"
+msgstr ""
+
+#: ../archive.php:30 ../front-page-blog.php:22 ../index.php:21 ../search.php:30
+#: ../single.php:27
+msgid "Posted in"
+msgstr ""
+
+#: ../archive.php:30 ../front-page-blog.php:22 ../index.php:21 ../search.php:30
+#: ../single.php:27
+msgid "Edit"
+msgstr ""
+
+#: ../archive.php:30 ../front-page-blog.php:22 ../index.php:21 ../search.php:30
+#: ../single.php:27
+msgid "No Comments &#187;"
+msgstr ""
+
+#: ../archive.php:30 ../front-page-blog.php:22 ../index.php:21 ../search.php:30
+#: ../single.php:27
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: ../archive.php:30 ../front-page-blog.php:22 ../index.php:21 ../search.php:30
+#: ../single.php:27
+msgid "% Comments &#187;"
+msgstr ""
+
+#: ../archive.php:30 ../front-page-blog.php:22 ../index.php:21 ../search.php:30
+#: ../single.php:27
+msgid "Tags: "
+msgstr ""
+
+#: ../archive.php:39 ../front-page-blog.php:29 ../index.php:28 ../search.php:37
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: ../archive.php:40 ../front-page-blog.php:30 ../index.php:29 ../search.php:38
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../comments.php:13
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:13
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Comments are Closed"
+msgstr ""
+
+#: ../featured-box.php:11 ../inc/customize.php:180
+msgid "Recent Works"
+msgstr ""
+
+#: ../featured-box.php:11
+msgid ""
+"The Color changing options of Simplify will give the WordPress Driven Site "
+"an attractive look."
+msgstr ""
+
+#: ../featured-box.php:17 ../inc/customize.php:232
+msgid "Simplify Theme for Small Business"
+msgstr ""
+
+#: ../featured-box.php:20
+msgid ""
+"The Color changing options of Simplify will give the WordPress Driven Site "
+"an attractive look. Simplify is super elegant and Professional Responsive "
+"Theme which will create the business widely expressed."
+msgstr ""
+
+#: ../featured-box.php:27 ../inc/customize.php:310
+msgid "Our Services"
+msgstr ""
+
+#: ../featured-box.php:27
+msgid ""
+"Simplify is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed."
+msgstr ""
+
+#: ../featured-box.php:32 ../inc/customize.php:364
+msgid "Simplify Theme for Business"
+msgstr ""
+
+#: ../featured-box.php:35
+msgid ""
+"Simplify is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed. The Color changing options of Simplify "
+"will give the WordPress Driven Site an attractive look."
+msgstr ""
+
+#: ../front-page-blog.php:9
+msgid "<<< Show Posts/ Page >>>"
+msgstr ""
+
+#: ../front-page.php:13 ../inc/customize.php:49
+msgid "Welcome to the World of Creativity!"
+msgstr ""
+
+#: ../front-page.php:14
+msgid ""
+"WordPress is web software you can use to create a beautiful website or blog. "
+"We like to say that WordPress is both free and priceless at the same time."
+msgstr ""
+
+#: ../front-page.php:35 ../front-page.php:38 ../inc/customize.php:154
+msgid ""
+"All the developers of D5 Creation have come from the disadvantaged part or "
+"group of the society. All have established themselves after a long and hard "
+"struggle in their life ----- D5 Creation Team"
+msgstr ""
+
+#: ../fullwidth.php:22 ../page.php:25
+msgid "Edit This Entry"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:103
+msgid "Sorry, we could not find anything that matched..."
+msgstr ""
+
+#: ../functions.php:104
+msgid "You Can Try the Search..."
+msgstr ""
+
+#: ../functions.php:106
+msgid "Browse the Home Page"
+msgstr ""
+
+#: ../functions.php:106
+msgid "&laquo; Or Return to the Home Page"
+msgstr ""
+
+#: ../functions.php:107
+msgid "You can also Visit the Following. These are the Featured Contents"
+msgstr ""
+
+#: ../functions.php:120
+msgid "Read More..."
+msgstr ""
+
+#: ../functions.php:121
+msgid "Theme by: "
+msgstr ""
+
+#: ../functions.php:121
+msgid "Powered by: "
+msgstr ""
+
+#: ../functions.php:127
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:136
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../functions.php:145
+msgid "Footer Area One"
+msgstr ""
+
+#: ../functions.php:155
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../functions.php:165
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../functions.php:176
+msgid "Footer Area Four"
+msgstr ""
+
+#: ../inc/customize.php:9
+msgid "SIMPLIFY OPTIONS"
+msgstr ""
+
+#: ../inc/customize.php:10
+msgid "We appreciate an"
+msgstr ""
+
+#: ../inc/customize.php:10
+msgid "Honest Review"
+msgstr ""
+
+#: ../inc/customize.php:10
+msgid "of this Theme if you Love our Work"
+msgstr ""
+
+#: ../inc/customize.php:12
+msgid ""
+"Need More Features and Options including Exciting Slide and 100+ Advanced "
+"Features? Try "
+msgstr ""
+
+#: ../inc/customize.php:13
+msgid "SIMPLIFY Extend"
+msgstr ""
+
+#: ../inc/customize.php:16
+msgid "You can Visit the SIMPLIFY Extend "
+msgstr ""
+
+#: ../inc/customize.php:16
+msgid "Demo Here"
+msgstr ""
+
+#: ../inc/customize.php:31
+msgid "Upgrade to Extended Version"
+msgstr ""
+
+#: ../inc/customize.php:42
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Heading"
+msgstr ""
+
+#: ../inc/customize.php:57
+msgid "Front Page Heading"
+msgstr ""
+
+#: ../inc/customize.php:64
+msgid ""
+"WordPress is web software you can use to create a beautiful website or blog. "
+"We like to say that WordPress is both free and priceless at the same time"
+msgstr ""
+
+#: ../inc/customize.php:72
+msgid "Front Page Heading Description"
+msgstr ""
+
+#: ../inc/customize.php:85
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Slide"
+msgstr ""
+
+#: ../inc/customize.php:101
+msgid "Banner Image/ Slide Image 01"
+msgstr ""
+
+#: ../inc/customize.php:104 ../inc/customize.php:121 ../inc/customize.php:138
+msgid ""
+"Upload an image for the Front Page Banner. 930px X 350px image is recommended"
+msgstr ""
+
+#: ../inc/customize.php:118
+msgid "Banner Image/ Slide Image 02"
+msgstr ""
+
+#: ../inc/customize.php:135
+msgid "Banner Image/ Slide Image 03"
+msgstr ""
+
+#: ../inc/customize.php:148
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Front Page Quote"
+msgstr ""
+
+#: ../inc/customize.php:162
+msgid "Quote Text"
+msgstr ""
+
+#: ../inc/customize.php:174
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - First Row Featured Boxes"
+msgstr ""
+
+#: ../inc/customize.php:188
+msgid "First Row Subject"
+msgstr ""
+
+#: ../inc/customize.php:191 ../inc/customize.php:321
+msgid "Input your Row Title Here"
+msgstr ""
+
+#: ../inc/customize.php:196
+msgid ""
+"The Color changing options of Simplify will give the WordPress Driven Site "
+"an attractive look"
+msgstr ""
+
+#: ../inc/customize.php:204
+msgid "First Row Description"
+msgstr ""
+
+#: ../inc/customize.php:207 ../inc/customize.php:337
+msgid ""
+"Input the description of Featured Areas. Please limit the words within 30 so "
+"that the layout should be clean and attractive"
+msgstr ""
+
+#: ../inc/customize.php:224
+msgid "First Row Featured Image"
+msgstr ""
+
+#: ../inc/customize.php:227
+msgid ""
+"Upload an image for the Featured Box. 200px X 100px image is recommended"
+msgstr ""
+
+#: ../inc/customize.php:240 ../inc/customize.php:372
+msgid "Title"
+msgstr ""
+
+#: ../inc/customize.php:248
+msgid ""
+"The Color changing options of Simplify will give the WordPress Driven Site "
+"an attractive look. Simplify is super elegant and Professional Responsive "
+"Theme which will create the business widely expressed"
+msgstr ""
+
+#: ../inc/customize.php:256 ../inc/customize.php:388
+msgid "Description"
+msgstr ""
+
+#: ../inc/customize.php:272 ../inc/customize.php:404
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/customize.php:286
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Second Row Featured Boxes"
+msgstr ""
+
+#: ../inc/customize.php:300
+msgid "Show Second Row Featured Boxs"
+msgstr ""
+
+#: ../inc/customize.php:303
+msgid "Uncheck this if you do not want to show the Second Row Featured Boxs"
+msgstr ""
+
+#: ../inc/customize.php:318
+msgid "Second Row Subject"
+msgstr ""
+
+#: ../inc/customize.php:326
+msgid ""
+"Simplify is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed"
+msgstr ""
+
+#: ../inc/customize.php:334
+msgid "Second Row Description"
+msgstr ""
+
+#: ../inc/customize.php:356
+msgid "Second Row Featured Image"
+msgstr ""
+
+#: ../inc/customize.php:359
+msgid "Upload an image for the Featured Box. 50px X 50px image is recommended"
+msgstr ""
+
+#: ../inc/customize.php:380
+msgid ""
+"Simplify is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed. The Color changing options of Simplify "
+"will give the WordPress Driven Site an attractive look"
+msgstr ""
+
+#: ../inc/customize.php:417
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Post and Responsive"
+msgstr ""
+
+#: ../inc/customize.php:432
+msgid "Do not show any Posts or Page in the Front Page"
+msgstr ""
+
+#: ../inc/customize.php:435
+msgid ""
+"Check the Box if you do not want to show any Posts or Page in the Front Page"
+msgstr ""
+
+#: ../inc/customize.php:449
+msgid "Use Responsive Layout"
+msgstr ""
+
+#: ../inc/customize.php:452
+msgid "Check the Box if you want the Responsive Layout of your Website"
+msgstr ""
+
+#: ../inc/customize.php:462
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; - Social Links"
+msgstr ""
+
+#: ../inc/customize.php:476
+msgid "Facebook Link"
+msgstr ""
+
+#: ../inc/customize.php:491
+msgid "Twitter Link"
+msgstr ""
+
+#: ../inc/customize.php:506
+msgid "You Tube Channel Link"
+msgstr ""
+
+#: ../inc/customize.php:521
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../inc/customize.php:537
+msgid "Picassa Web Album Link"
+msgstr ""
+
+#: ../inc/customize.php:552
+msgid "Linked In Link"
+msgstr ""
+
+#: ../inc/customize.php:567
+msgid "Feed or Blog Link"
+msgstr ""
+
+#: ../page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: ../page.php:28
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: ../search.php:12
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:17
+msgid "Search Term:"
+msgstr ""
+
+#: ../search.php:18
+msgid "Number of Results:"
+msgstr ""
+
+#: ../search.php:22
+msgid "Entry Date: "
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Search Text Here"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:19
+msgid "Meta"
+msgstr ""

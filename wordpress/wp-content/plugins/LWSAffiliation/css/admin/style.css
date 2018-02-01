@@ -1,0 +1,12 @@
+.mce-i-lws-affiliation-widget:before {
+    content: '\2605';
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font: normal 16px/1 'dashicons';
+    vertical-align: top;
+}
+div.divWidgetAffiliationLWS {
+    height: 100px;
+    width: 100%;
+    background-color: #e3e3e3;
+}

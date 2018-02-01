@@ -1,0 +1,442 @@
+# Translation of Themes - Contango in English (UK)
+# This file is distributed under the same license as the Themes - Contango package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:38:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Contango\n"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Template"
+msgstr "Full Width Template"
+
+#: sidebar.php:66
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:60
+msgid "%s"
+msgstr "%s"
+
+#: sidebar.php:59
+msgid "About Contango"
+msgstr "About Contango"
+
+#: sidebar.php:52
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+#: sidebar.php:45
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: sidebar.php:38
+msgid "Calendar"
+msgstr "Calendar"
+
+#: sidebar.php:24
+msgid "Categories"
+msgstr "Categories"
+
+#: sidebar.php:17
+msgid "Pages"
+msgstr "Pages"
+
+#: searchform.php:4 searchform.php:5
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Search for:"
+
+#: loop-meta.php:98
+msgid "Whoah! You broke something!"
+msgstr "Whoa! You broke something!"
+
+#: loop-meta.php:97
+msgid "404"
+msgstr "404"
+
+#: loop-meta.php:87
+msgid "You are browsing the site archives."
+msgstr "You are browsing the site archives."
+
+#: loop-meta.php:86 sidebar.php:31
+msgid "Archives"
+msgstr "Archives"
+
+#: loop-meta.php:76
+msgid "You are browsing the site archives by year."
+msgstr "You are browsing the site archives by year."
+
+#: loop-meta.php:75
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: loop-meta.php:65
+msgid "You are browsing the site archives by month."
+msgstr "You are browsing the site archives by month."
+
+#: loop-meta.php:64
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: loop-meta.php:54
+msgid "You are browsing the site archives by date."
+msgstr "You are browsing the site archives by date."
+
+#: loop-meta.php:53
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: loop-meta.php:43
+msgid "You are browsing the search results for %s"
+msgstr "You are browsing the search results for %s"
+
+#: loop-meta.php:42
+msgid "Search Results: %s"
+msgstr "Search Results: %s"
+
+#: loop-meta.php:31
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: loop-meta.php:17
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: loop-meta.php:6
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: loop-error.php:4
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+
+#: loop-error.php:2
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: lib/functions/utility.php:507 lib/functions/utility.php:512
+msgid "Read More &rarr;"
+msgstr "Read More &rarr;"
+
+#: lib/functions/utility.php:477
+msgid "Page %s"
+msgstr "Page %s"
+
+#: lib/functions/utility.php:438
+msgid "Reply"
+msgstr "Reply"
+
+#: lib/functions/utility.php:428
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: lib/functions/utility.php:419
+msgid "said:"
+msgstr "said:"
+
+#: lib/functions/utility.php:394
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: lib/functions/utility.php:379
+msgid "Powered by"
+msgstr "Powered by"
+
+#: lib/functions/utility.php:312
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: lib/functions/utility.php:309
+msgid "About %s"
+msgstr "About %s"
+
+#: lib/functions/utility.php:285
+msgid "Attachment Navigation"
+msgstr "Attachment Navigation"
+
+#: lib/functions/utility.php:264
+msgid "&larr; Return to"
+msgstr "&larr; Return to"
+
+#: lib/functions/utility.php:239
+msgid "Next Post"
+msgstr "Next Post"
+
+#: lib/functions/utility.php:235
+msgid "Previous Post"
+msgstr "Previous Post"
+
+#: lib/functions/utility.php:212
+msgid "Newer Posts"
+msgstr "Newer posts"
+
+#: lib/functions/utility.php:208
+msgid "Older Posts"
+msgstr "Older posts"
+
+#: lib/functions/utility.php:197 lib/functions/utility.php:220
+#: lib/functions/utility.php:247 lib/functions/utility.php:263
+msgid "Post Navigation"
+msgstr "Post navigation"
+
+#: lib/functions/utility.php:119
+msgid "Pages:"
+msgstr "Pages:"
+
+#: lib/functions/utility.php:107
+msgid "Tagged:"
+msgstr "Tagged:"
+
+#: lib/functions/utility.php:95
+msgid "Posted in:"
+msgstr "Posted in:"
+
+#: lib/functions/utility.php:78
+msgid "% Comments"
+msgstr "% Comments"
+
+#: lib/functions/utility.php:78
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: lib/functions/utility.php:78
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: lib/functions/utility.php:60 lib/functions/utility.php:62
+#: lib/functions/utility.php:394 lib/functions/utility.php:423
+msgid "Edit"
+msgstr "Edit"
+
+#: lib/functions/utility.php:49
+msgid "by"
+msgstr "by"
+
+#: lib/functions/utility.php:16
+msgid "Featured"
+msgstr "Featured"
+
+#: lib/functions/sidebars.php:42
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr "The main (primary) widget area, most often used as a sidebar."
+
+#: lib/functions/sidebars.php:40
+msgid "Contango Primary Sidebar"
+msgstr "Contango Primary Sidebar"
+
+#: lib/functions/menus.php:9
+msgid "Contango Primary Menu"
+msgstr "Contango Primary Menu"
+
+#. #-#-#-#-#  contango.pot (Contango 1.2.7.6)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: lib/functions/custom-header.php:26
+msgid "Contango"
+msgstr "Contango"
+
+#: lib/admin/page.php:33
+msgid "General Settings"
+msgstr "General Settings"
+
+#: lib/admin/page.php:32
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: lib/admin/page.php:31
+msgid "Post Settings"
+msgstr "Post Settings"
+
+#: lib/admin/page.php:30
+msgid "Blog Settings"
+msgstr "Blog Settings"
+
+#: lib/admin/page.php:22 lib/admin/page.php:61
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: lib/admin/page.php:16
+msgid "Follow On Twitter"
+msgstr "Follow On Twitter"
+
+#: lib/admin/page.php:15
+msgid "Like Us On Facebook"
+msgstr "Like Us On Facebook"
+
+#: lib/admin/page.php:14
+msgid "Our Free Themes"
+msgstr "Our Free Themes"
+
+#: lib/admin/page.php:13
+msgid "Contango Pro Features"
+msgstr "Contango Pro Features"
+
+#: lib/admin/page.php:8
+msgid "%1$s Theme Settings"
+msgstr "%1$s Theme Settings"
+
+#: lib/admin/admin.php:316
+msgid "Reset Theme Options."
+msgstr "Reset Theme Options."
+
+#: lib/admin/admin.php:307
+msgid "Here are the general settings to customize your blog."
+msgstr "Here are the general settings to customise your blog."
+
+#: lib/admin/admin.php:299
+msgid "Enter the copyright text."
+msgstr "Enter the copyright text."
+
+#: lib/admin/admin.php:290
+msgid "Select yes to override default copyright text."
+msgstr "Select yes to override default copyright text."
+
+#: lib/admin/admin.php:273
+msgid "Customize your footer by using the following settings."
+msgstr "Customise your footer by using the following settings."
+
+#: lib/admin/admin.php:266
+msgid "<strong>No Featured Image:</strong> for the post."
+msgstr "<strong>No Featured Image:</strong> for the post."
+
+#: lib/admin/admin.php:265
+msgid "<strong>Use Featured Image Automatically:</strong> from the images uploaded to the post."
+msgstr "<strong>Use Featured Image Automatically:</strong> from the images uploaded to the post."
+
+#: lib/admin/admin.php:264
+msgid "<strong>Use Featured Image:</strong> which is set in the post."
+msgstr "<strong>Use Featured Image:</strong> which is set in the post."
+
+#: lib/admin/admin.php:247
+msgid "Select post style."
+msgstr "Select post style."
+
+#: lib/admin/admin.php:230
+msgid "Customize your posts by using the following settings."
+msgstr "Customise your posts by using the following settings."
+
+#: lib/admin/admin.php:223
+msgid "Select navigation style."
+msgstr "Select navigation style."
+
+#: lib/admin/admin.php:206
+msgid "Customize your blog by using the following settings."
+msgstr "Customise your blog by using the following settings."
+
+#: lib/admin/admin.php:145
+msgid "No Featured Image"
+msgstr "No Featured Image"
+
+#: lib/admin/admin.php:145
+msgid "Use Featured Image Automatically"
+msgstr "Use Featured Image Automatically"
+
+#: lib/admin/admin.php:145
+msgid "Use Featured Image"
+msgstr "Use Featured Image"
+
+#: lib/admin/admin.php:140
+msgid "Excerpt"
+msgstr "Excerpt"
+
+#: lib/admin/admin.php:140
+msgid "Content"
+msgstr "Content"
+
+#: lib/admin/admin.php:135
+msgid "Older / Newer"
+msgstr "Older / Newer"
+
+#: lib/admin/admin.php:135
+msgid "Numeric"
+msgstr "Numeric"
+
+#: lib/admin/admin.php:130
+msgid "no"
+msgstr "No"
+
+#: lib/admin/admin.php:130
+msgid "yes"
+msgstr "Yes"
+
+#: lib/admin/admin.php:122
+msgid "Reset Theme Options"
+msgstr "Reset Theme Options"
+
+#: lib/admin/admin.php:117
+msgid "Enter Copyright Text"
+msgstr "Enter Copyright Text"
+
+#: lib/admin/admin.php:116
+msgid "Use Copyright"
+msgstr "Use Copyright"
+
+#: lib/admin/admin.php:111
+msgid "Post Featured Image"
+msgstr "Post Featured Image"
+
+#: lib/admin/admin.php:110
+msgid "Post Style"
+msgstr "Post Style"
+
+#: lib/admin/admin.php:105
+msgid "Navigation Style"
+msgstr "Navigation Style"
+
+#: lib/admin/admin.php:52 lib/admin/admin.php:53
+msgid "Contango Options"
+msgstr "Contango Options"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:32
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:19
+msgid "One Thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: 404.php:20
+msgid "The following is a list of the latest posts from the blog. Maybe it will help you find what you're looking for."
+msgstr "The following is a list of the latest posts from the blog. Maybe it will help you find what you're looking for."
+
+#: 404.php:18
+msgid "Just kidding! You tried going to %s, which doesn't exist, so that means I probably broke something."
+msgstr "Just kidding! You tried going to %s, which doesn't exist, which means I probably broke something."
+
+#. Author URI of the plugin/theme
+msgid "http://designorbital.com/"
+msgstr "http://designorbital.com/"
+
+#. Author of the plugin/theme
+msgid "DesignOrbital.com"
+msgstr "DesignOrbital.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://designorbital.com/contango/"
+msgstr "http://designorbital.com/contango/"
