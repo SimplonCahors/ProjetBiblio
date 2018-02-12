@@ -7,7 +7,7 @@
  * @since Twenty Fifteen 1.0
  */
 ?>
-<div id="headerperso"><img src="http://www.portenbessin-huppain.fr/wp-content/uploads/2014/09/logo-biblioth%C3%A8que-pour-tous.jpg"/><span>Bibliothèque Municipale Espère</span></div>
+<div id="headerperso"><img src="/img/logo.png"/><span>Bibliothèque Municipale Espère</span></div>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<?php
